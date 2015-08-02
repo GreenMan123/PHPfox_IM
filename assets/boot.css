@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,600);
+#vieber-im {
+  position: fixed;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  z-index: 100000;
+  width: 15%;
+  background: #ffffff;
+}
